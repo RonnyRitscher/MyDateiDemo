@@ -1,4 +1,4 @@
-package de.proneucon.dateidemo;
+package de.ronnyritscher.dateidemo;
 /*
 * DATEI speichern und laden -> auf externes Speichermedium
 * */
@@ -29,7 +29,7 @@ public class FileDemoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final EditText editText = findViewById(R.id.et_edit);
+        final EditText editText = findViewById(R.id.et_main_text);
 
         final Button load = findViewById(R.id.btn_laden);
         load.setOnClickListener( v -> editText.setText(load()));

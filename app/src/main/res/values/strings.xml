@@ -4,4 +4,5 @@
     <string name="leeren">Leeren</string>
     <string name="speichern">Speichern</string>
     <string name="laden">Laden</string>
+    <string name="eingabe_ausgabe">Eingabe/Ausgabe</string>
 </resources>

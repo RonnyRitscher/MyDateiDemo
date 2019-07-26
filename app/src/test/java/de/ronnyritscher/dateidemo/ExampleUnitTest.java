@@ -1,4 +1,4 @@
-package de.proneucon.dateidemo;
+package de.ronnyritscher.dateidemo;
 
 import org.junit.Test;
 
